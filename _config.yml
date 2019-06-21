@@ -4,29 +4,24 @@ repository: ghabreu/ghabreu.github.io
 
 # Personal info
 name: Gustavo Abreu
-title: Maker
+title: Digital Fabrication and Computer Networking Specialist
 email: info@gustavoabr.eu
 # phone: Your phone number (optional)
 website: https://gustavoabr.eu
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
+twitter_username: GHAbreu
+github_username:  ghabreu
+instagram_username: gustavoabr.eu
+linkedin_username: gustavo-abreu-44a73660
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I started working with telecommunications and built a career out of it. Earning certifications and climbing the ladder up to giving consultancy to large scale operations. But it wasn’t enough. This pursuit of knowledge and lack of fear from the unknown led me into bicycle touring Brazil. Where I did multiple volunteering jobs related to permaculture, bio-construction, and sustainability. Later I co-founded one of the firsts and few private, open to the public Makerspaces in Brazil. Which turns out to be a huge challenge, but still extremely rewarding.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
-
+  All of this brought me here to the Institute for Advanced Architecture of Catalonia, where I’m taking the Fab Academy course and proudly doing an internship at the Valldaura Self-sufficient Lab.
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
@@ -39,16 +34,14 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  Born in Belo Horizonte - Brazil. Since my childhood, I liked to tear toys apart to make new ones, understand how things work, ask a lot of why’s and learn something new every day.  Which made me pursue numerous courses and certifications such as Cisco CCNA, LPIC-1, Full Stack Development, and more. I'm also fluent in English, Portuguese, and Spanish.
 
 # Footer
 footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+# remote_theme: sproogen/modern-re  sume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass

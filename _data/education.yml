@@ -1,9 +1,24 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  name: Estácio de Sá University
+  dates: 2011 - 2013
+  qualification: Computer Networking Undergraduate
+  #quote:
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    A degree focused on the Specification, Design, Deployment, and Troubleshooting of complex network topologies. Including wireless and optical fiber technologies for long-range transmissions.
+
+- layout: right
+  name: COTEMIG
+  dates: 2009 - 2011
+  qualification: Information Technology Specialist
+  #quote:
+  description: | # this will include new lines to allow paragraphs
+    Higher vocational education aimed at developing professional skills among Software development, Network administration, Computer hardware maintenance, Customer support, and Entrepreneurship.
+
+- layout: left
+  name: Oscars International Dublin
+  dates: 2014
+  qualification: Intensive English Course
+  #quote:
+  description: | # this will include new lines to allow paragraphs
+    Graduated with an advanced level

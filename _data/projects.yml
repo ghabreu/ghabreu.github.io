@@ -1,9 +1,24 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Nondistracting Bike GPS
+  link: http://fabacademy.org/2019/labs/barcelona/students/gustavo-deabreu/projects/__final_project/
+  # github:
   quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    An open source, distraction free, turn-by-turn navigation system for bikes. Made completely with Fab Lab components.
+  #description: | # this will include new lines to allow paragraphs
+
+- layout: top-middle
+  name: Belo Horionte Mini Maker Faire 2018
+  # link: http://fabacademy.org/2019/labs/barcelona/students/gustavo-deabreu/projects/__final_project/
+  # github:
+  quote: >
+    Organized and participated with an exposition and workshops.
+  #description: | # this will include new lines to allow paragraphs
+
+- layout: top-middle
+  name: Traffic live-stream
+  # link: http://fabacademy.org/2019/labs/barcelona/students/gustavo-deabreu/projects/__final_project/
+  # github:
+  quote: >
+    Developed for Brazil's biggest tv channel a private solution to monitor and stream the city's live traffic to the general public.
+  #description: | # this will include new lines to allow paragraphs
