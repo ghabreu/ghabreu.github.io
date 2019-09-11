@@ -7,7 +7,7 @@
   description: | # this will include new lines to allow paragraphs
     A degree focused on the Specification, Design, Deployment, and Troubleshooting of complex network topologies. Including wireless and optical fiber technologies for long-range transmissions.
 
-- layout: right
+- layout: left
   name: COTEMIG
   dates: 2009 - 2011
   qualification: Information Technology Specialist
