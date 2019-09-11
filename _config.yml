@@ -19,9 +19,7 @@ linkedin_username: gustavo-abreu-44a73660
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I started working in telecommunications and built a career as a Network Engineer. After earning various certificates and working as a consultant on large scale operations, I decided it wasn’t enough. The pursuit of knowledge and lack of fear of the unknown led me to do a bicycle tour of Brazil. Here I volunteered working in various projects related to permaculture, bio-construction, and sustainability. Later I co-founded one of the first self-funded Makerspaces in Brazil. This turned out to be a huge challenge, but extremely rewarding.
-
-  All of this brought me here to the Institute for Advanced Architecture of Catalonia, where I’m currently taking the Fab Academy and proudly doing an internship at the Green Fab Lab.
+  I started working in telecommunications and built a career as a Network Engineer. After earning various certificates and working as a consultant on large scale operations, I decided it wasn’t enough. The pursuit of knowledge and lack of fear of the unknown led me to do a bicycle tour of Brazil. Here I volunteered working in various projects related to permaculture, bio-construction, and sustainability. Later I co-founded one of the first self-funded Makerspaces in Brazil. This turned out to be a huge challenge, but extremely rewarding. All of this brought me to the Institute for Advanced Architecture of Catalonia, where I took the Fab Academy course and proudly did an internship at the Green Fab Lab.
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
@@ -34,8 +32,8 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Born in Belo Horizonte - Brazil. Since my childhood, I liked to tear toys apart to make new ones, understand how things work, ask a lot of why’s and learn something new every day.  Which made me pursue numerous courses and certifications such as Cisco CCNA, LPIC-1, Full Stack Development, and more. I'm also fluent in English, Portuguese, and Spanish.
-
+  Born in Belo Horizonte - Brazil. Since my childhood, I liked to tear toys apart to make new ones, understand how things work, ask a lot of why’s and learn something new every day. Which made me pursue numerous courses and certifications such as Cisco CCNA, LPIC-1, Full Stack Development, Fab Academy and more. I'm fluent in English, Portuguese, Spanish and now learning French.
+  Currently located in Montreal, QC
 # Footer
 footer_show_references: true
 

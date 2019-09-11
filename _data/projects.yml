@@ -1,5 +1,12 @@
 # Project template
 - layout: top-middle
+  name: Altar of Intentions
+  link: https://www.instagram.com/altarofintentions/
+  # github:
+  quote: >
+    Digital design, manufacturing and installation of the art piece at Burning Man 2019.
+  #description: | # this will include new lines to allow paragraphs
+- layout: top-middle
   name: Nondistracting Bike GPS
   link: http://fabacademy.org/2019/labs/barcelona/students/gustavo-deabreu/projects/__final_project/
   # github:
